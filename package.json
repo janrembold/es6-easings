@@ -1,0 +1,10 @@
+{
+  "name": "easings",
+  "version": "1.0.0",
+  "description": "ES6 implementation of easing equations for JavScript animations",
+  "main": "index.js",
+  "repository": "https://github.com/janrembold/easings.git",
+  "author": "janrembold <janrembold@gmx.net>",
+  "contributors": [{"name" : "Robert Penner","url" : "http://robertpenner.com/easing/"}],
+  "license": "BSD"
+}
