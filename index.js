@@ -1,7 +1,3 @@
-export const swing = (t, b, c, d) => {
-    return easeOutQuad(t, b, c, d);
-};
-
 export const easeOutQuad = (t, b, c, d) => {
     return -c *(t/=d)*(t-2) + b;
 }
